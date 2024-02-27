@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LiuQH12345
-- 👀 I’m interested in wrinting papers hh.
+- 👀 I’m interested in writing papers hh.
 - 🌱 I’m currently learning how to scrape useful data.
 - 📫 How to reach me:isliuqianhan@163.com.
 
